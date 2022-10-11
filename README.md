@@ -29,6 +29,10 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="express" width="40" height="40"/>
+
+<h3>:chart_with_upwards_trend: STATS:</h3>
+ <img src='https://github-readme-stats.vercel.app/api?username=tomasfv&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en' alt='stat'/>
+ <img src='https://github-readme-streak-stats.herokuapp.com/?user=tomasfv&theme=dark' alt='alsostat'/>
     
     
     
