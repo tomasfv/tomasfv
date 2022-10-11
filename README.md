@@ -1,4 +1,10 @@
-### Hi there, I'm Tomas 👋
+<h1>Hi there, I'm Tomas 👋</h1>
+
+<h3>Skills:</h3>
+
+* [![React][React.js]][React-url]
+
+
 
 <!--
 **tomasfv/tomasfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
