@@ -1,7 +1,8 @@
 <h1 align='center'>Hi, I'm Tomas 👋</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img src='https://static.vecteezy.com/system/resources/thumbnails/000/693/934/small/dark-blue-technology-and-high-tech-abstract-background.jpg' alt='tech' width='1000' height='300'/>
-
+<div align="center">
+<img src='https://aws1.discourse-cdn.com/business6/uploads/glitch/optimized/2X/c/ca4dff4f8a1797712edf717970e4193e09ba0f9c_2_500x500.gif' alt='tech'  width='200' height='200'/>
+</div>
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
 <h4 align='center'>I am a technology and video games lover. Full Stack Web Developer graduated from www.soyhenry.com, interested in the technology industry and in the constant learning of new tools. Thanks for checking my profile!</h4>
