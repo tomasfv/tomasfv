@@ -4,7 +4,7 @@
 
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
-<h4 align='center'>I am a lover of technology and video games. Full Stack Web Developer graduated from www.soyhenry.com, interested in the technology industry and in the constant learning of new tools. Thanks for checking my profile!</h4>
+<h4 align='center'>I am a technology and video games lover. Full Stack Web Developer graduated from www.soyhenry.com, interested in the technology industry and in the constant learning of new tools. Thanks for checking my profile!</h4>
 <h3>:earth_americas: LANGUAGES:</h3>
 <p>:es: Spanish: Native</p>
 <p>:us: English: Advanced</p>
