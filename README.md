@@ -1,5 +1,6 @@
 <h1 align='center'>Hi, I'm Tomas 👋</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<img src='https://static.vecteezy.com/system/resources/thumbnails/000/693/934/small/dark-blue-technology-and-high-tech-abstract-background.jpg' alt='tech' width='1000' height='300'/>
 
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
