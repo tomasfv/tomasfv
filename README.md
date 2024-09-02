@@ -21,7 +21,7 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,and%20component%2Doriented%20programming%20disciplines." target="_blank"> <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="csharp" width="40" height="40"/>
   <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" alt="sourcetree" width="40" height="40"/>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" alt="postman" width="40" height="40"/>  
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>  
   <a href="https://www.audiokinetic.com/en/wwise/overview/" target="_blank"> <img src="https://i.pinimg.com/originals/b7/47/3f/b7473f7b45d8d64863c7c4daeeef7c05.png" alt="wwise" width="40" height="40"/>
   <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/blender-5293825-4438958.png?f=webp" alt="blender" width="40" height="40"/>
   <a href="https://ephtracy.github.io/" target="_blank"> <img src="https://www.macdo.cn/wp-content/uploads/2021/04/1683606319-8421106f34bd7bf.png" alt="magicavoxel" width="40" height="40"/>
