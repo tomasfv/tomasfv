@@ -18,18 +18,16 @@
 
 
 <h3>:heavy_check_mark: SKILLS:</h3>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTne0ZqZeUcM6TRz533CZDfoDHau22lV4vcHg&s" alt="sourcetree" width="40" height="40"/>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,and%20component%2Doriented%20programming%20disciplines." target="_blank"> <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="csharp" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="node" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="react" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="express" width="40" height="40"/>
   <a href="https://unity.com/" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40"/>
+  <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" alt="sourcetree" width="40" height="40"/>
+  <a href="https://www.audiokinetic.com/en/wwise/overview/" target="_blank"> <img src="https://i.pinimg.com/originals/b7/47/3f/b7473f7b45d8d64863c7c4daeeef7c05.png" alt="wwise" width="40" height="40"/>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" alt="postman" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,and%20component%2Doriented%20programming%20disciplines." target="_blank"> <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="csharp" width="40" height="40"/>
+  <a href="https://www.blender.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrv4skDGETyKxXiOA1Gw-PsOGVJ6F6i0hiQ&s" alt="blender" width="40" height="40"/>
+  <a href="https://ephtracy.github.io/" target="_blank"> <img src="https://static.macupdate.com/products/63748/l/magicavoxel-logo.png?v=1642057853" alt="magicavoxel" width="40" height="40"/>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
+  
 
 <h3>:chart_with_upwards_trend: STATS:</h3>
  <img src='https://github-readme-stats.vercel.app/api?username=tomasfv&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en' alt='stat'/>
