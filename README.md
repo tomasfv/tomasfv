@@ -2,11 +2,11 @@
 <div align="center">
 <img src='https://aws1.discourse-cdn.com/business6/uploads/glitch/optimized/2X/c/ca4dff4f8a1797712edf717970e4193e09ba0f9c_2_500x500.gif' alt='tech'  width='200' height='200'/>
 </div>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
-<h4 align='center'>I am a technology and video games lover. Full Stack Web Developer graduated from www.soyhenry.com, interested in the tech industry and in the constant learning of new tools. Thanks for checking my profile!</h4>
+<h4 align='center'>I am a technology and video games lover. Thanks for checking my profile!</h4>
 <h3>:earth_americas: LANGUAGES:</h3>
 <p>:es: Spanish: Native</p>
 <p>:us: English: Advanced</p>
