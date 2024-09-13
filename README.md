@@ -26,6 +26,7 @@
   <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/blender-5293825-4438958.png?f=webp" alt="blender" width="40" height="40"/>
   <a href="https://ephtracy.github.io/" target="_blank"> <img src="https://www.macdo.cn/wp-content/uploads/2021/04/1683606319-8421106f34bd7bf.png" alt="magicavoxel" width="40" height="40"/>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40"/>
+  <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="vs" width="40" height="40"/>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
   
 
