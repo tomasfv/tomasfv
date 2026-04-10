@@ -2,36 +2,50 @@
 <div align="center">
 <img src='https://aws1.discourse-cdn.com/business6/uploads/glitch/optimized/2X/c/ca4dff4f8a1797712edf717970e4193e09ba0f9c_2_500x500.gif' alt='tech'  width='200' height='200'/>
 </div>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Frontend Software Engineer</h3>
 
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
-<h4 align='center'>I am a technology and video games lover. Thanks for checking my profile!</h4>
+<p>
+Frontend Software Engineer with 3+ years of experience building scalable web and desktop applications using React, TypeScript, and modern JavaScript technologies.
+</p>
+
+<p>
+Experienced in designing reusable component architectures, integrating REST APIs, and working on production systems in international remote teams.
+</p>
+
 <h3>:earth_americas: LANGUAGES:</h3>
 <p>:es: Spanish: Native</p>
 <p>:us: English: Advanced</p>
 <h3>:mag: CONTACT:</h3>
 <a href="mailto:tomasfernandezvaldes@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="50" height="40"/> </a>
 <a href="https://www.linkedin.com/in/tomasferval/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
+<h3><a href="https://tomasfv.netlify.app/" target="_blank">PORTFOLIO</a></h3>
 
 
 
 
 <h3>:heavy_check_mark: SKILLS:</h3>
-  <a href="https://unity.com/" target="_blank"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,and%20component%2Doriented%20programming%20disciplines." target="_blank"> <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png" alt="csharp" width="40" height="40"/>
-  <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://seeklogo.com/images/S/sourcetree-logo-852CEF45CF-seeklogo.com.png" alt="sourcetree" width="40" height="40"/>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>  
-  <a href="https://www.audiokinetic.com/en/wwise/overview/" target="_blank"> <img src="https://i.pinimg.com/originals/b7/47/3f/b7473f7b45d8d64863c7c4daeeef7c05.png" alt="wwise" width="40" height="40"/>
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/blender-5293825-4438958.png?f=webp" alt="blender" width="40" height="40"/>
-  <a href="https://ephtracy.github.io/" target="_blank"> <img src="https://www.macdo.cn/wp-content/uploads/2021/04/1683606319-8421106f34bd7bf.png" alt="magicavoxel" width="40" height="40"/>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40"/>
-  <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2020/12/Visual-Studio-Logo.png" alt="vs" width="40" height="40"/>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="js" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="js" width="40" height="40"/>
+  <a href="https://mui.com/material-ui/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="js" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://sequelize.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="js" width="40" height="40"/>
+  <a href="https://unity.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   
 
 <h3>:chart_with_upwards_trend: STATS:</h3>
- <img src='https://github-readme-stats.vercel.app/api?username=tomasfv&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en' alt='stat'/>
  <img src='https://github-readme-streak-stats.herokuapp.com/?user=tomasfv&theme=dark' alt='alsostat'/>
     
     
