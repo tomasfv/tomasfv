@@ -2,23 +2,23 @@
 <div align="center">
 <img src='https://aws1.discourse-cdn.com/business6/uploads/glitch/optimized/2X/c/ca4dff4f8a1797712edf717970e4193e09ba0f9c_2_500x500.gif' alt='tech'  width='200' height='200'/>
 </div>
-<h3 align="center">Frontend Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <hr/>
 <h3>:raising_hand_man: ABOUT ME:</h3>
 <p>
-Frontend Software Engineer with 3+ years of experience building scalable web and desktop applications using React, TypeScript, and modern JavaScript technologies.
+Full Stack Software Engineer with 3+ years of experience building scalable web and desktop applications using React, TypeScript, Node.js and PostgreSQL.
 </p>
 
 <p>
-Experienced in designing reusable component architectures, integrating REST APIs, and working on production systems in international remote teams.
+Experienced in designing reusable component architectures, developing and integrating REST APIs, and working on production systems in international remote teams.
 </p>
 
 <h3>:earth_americas: LANGUAGES:</h3>
 <p>:es: Spanish: Native</p>
 <p>:us: English: Advanced</p>
 <h3>:mag: CONTACT:</h3>
-<a href="mailto:tomasfernandezvaldes@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="50" height="40"/> </a>
+<a href="mailto:tomasfernandezvaldes@gmail.com" target="_blank"> 📫 </a>
 <a href="https://www.linkedin.com/in/tomasferval/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a>
 <h3><a href="https://tomasfv.netlify.app/" target="_blank">PORTFOLIO</a></h3>
 
